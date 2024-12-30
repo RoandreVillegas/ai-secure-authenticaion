@@ -1,0 +1,9 @@
+flask           # Web framework for APIs
+numpy           # Numerical computations
+opencv-python   # Image processing for face recognition
+tensorflow      # Deep learning framework
+scikit-learn    # Machine learning algorithms
+pandas          # Data handling
+pillow          # Image manipulation
+dlib            # Face recognition tools
+vosk            # Voice recognition tools
