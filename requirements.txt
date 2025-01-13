@@ -1,9 +1,10 @@
-flask           # Web framework for APIs
-numpy           # Numerical computations
-opencv-python   # Image processing for face recognition
-tensorflow      # Deep learning framework
-scikit-learn    # Machine learning algorithms
-pandas          # Data handling
-pillow          # Image manipulation
-dlib            # Face recognition tools
-vosk            # Voice recognition tools
+flask==3.1.0                # Web framework for APIs
+face-recognition==1.3.0     # Face detection and recognition using dlib
+numpy==1.24.3               # Numerical computations
+opencv-python==4.8.0.76     # Image processing for face recognition
+tensorflow==2.15.0          # Deep learning framework
+scikit-learn==1.3.0         # Machine learning algorithms
+pandas==1.5.3               # Data handling
+pillow==9.5.0               # Image manipulation
+dlib==19.24.0               # Face recognition tools
+vosk==0.3.45                # Voice recognition tools
